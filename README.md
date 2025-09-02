@@ -1,15 +1,18 @@
-# Kalkulator Sederhana Python
+# SIMPLE CALCULATORS
 
-Ini adalah salah satu proyek pertamaku dalam belajar Python!
+This is my first project to learn Python!
 
 ## Fitur
-- Penjumlahan
-- Pengurangan
-- Perkalian
-- Pembagian
+- ADD
+- SUBTRACT
+- MULTIPLY
+- DIVIDE
 
-## Apa yang Aku Pelajari
-- Membuat fungsi (`def`)
-- Menggunakan loop (`while True`)
-- Mengambil keputusan dengan `if/elif/else`
-- Menangani error dengan `try-except`
+## What im learn
+Create a function (def)
+
+Use a loop (while True)
+
+Make decisions with if/elif/else
+
+Handle errors with try-except
